@@ -15,4 +15,4 @@ http://localhost:9090/graph - prometheus
 
 http://localhost:3000 - grafana
 
-http://localhost:16686 - jaeger tracing (currently seems not to receive and request from the application though)
+http://localhost:16686 - jaeger tracing
